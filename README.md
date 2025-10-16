@@ -3,7 +3,8 @@
 This repo is inspired by [ThirteenAG/EA-Art-Collection](https://github.com/ThirteenAG/EA-Art-Collection).
 
 I am currently uploading the base game XMB Arts. Not from updates, save files.
-
+![ICON0.PNG](https://github.com/24phyr/PS3-XMB-Art-Collection/wiki/ICON0)
+![PIC1.PNG](https://github.com/24phyr/PS3-XMB-Art-Collection/wiki/PIC1)
 ---
 
 ###  Disclaimer
